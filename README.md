@@ -1,7 +1,7 @@
 # Discord Voice Channels
 Репозиторий реализует решение для создания персональных голосовых каналов на сервере в Discord.
 
-![](https://github.com/dex35/discord-voice-channels/preview.gif)
+![](https://github.com/dex35/discord-voice-channels/blob/master/preview.gif)
 
 > [!Warning]  
 > Репозиторий опубликован в ознакомительных целях и не является best-practices!
